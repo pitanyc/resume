@@ -3,6 +3,12 @@
 ![Peter Szocs](peter_szocs.jpg "Wedding photo")
 Repository for my resume.
 
+## Bio
+
+Soccer & soca aficionado.  European born, Caribbean at heart.
+
+Worked for 4 years at a web startup in Washington, D.C. prior to joining Bloomberg LP.  At Bloomberg I've always been part of the Derivatives Team, creating products such as OVME, OVME Backtesting, OVME Uploader and more recently: Derivatives API.  I'm also the University of Florida & Mid-Atlantic Regional captains.  On the side I enjoy playing & watching soccer, as well as working on my personal projects.  Hit me up on my website or Medium to find out more!
+
 ## Creator
 
 [Peter Szocs](http://www.peterszocs.com), Tech Lead at Bloomberg LP.
