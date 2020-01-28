@@ -4,7 +4,7 @@
 
 ## Bio
 
-Soccer & soca aficionado.  European born -- Caribbean at heart.
+Soccer & soca aficionado.  European born, Caribbean at heart.
 
 Worked for 4 years at a web startup in Washington, D.C. prior to joining Bloomberg LP.  At Bloomberg I've always been part of the Derivatives Team, creating products such as OVME, OVME Backtesting, OVME Uploader and more recently: Derivatives API.  For recruiting I am both the University of Florida & Mid-Atlantic Regional captain.
 
