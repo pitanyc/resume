@@ -1,7 +1,6 @@
 # resume
 
 ![Peter Szocs](peter_szocs.jpg "Wedding photo")
-Repository for my resume.
 
 ## Bio
 
